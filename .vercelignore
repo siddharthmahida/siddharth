@@ -1,0 +1,10 @@
+.next
+.vinext
+.wrangler
+dist
+build
+node_modules
+.git
+.agents
+.sites-runtime
+source-assets
